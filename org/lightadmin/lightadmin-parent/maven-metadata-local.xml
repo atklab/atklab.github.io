@@ -4,8 +4,8 @@
   <artifactId>lightadmin-parent</artifactId>
   <versioning>
     <versions>
-      <version>1.1.0.BUILD-SNAPSHOT</version>
+      <version>1.2.0.BUILD-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150527163328</lastUpdated>
+    <lastUpdated>20150604135602</lastUpdated>
   </versioning>
 </metadata>
