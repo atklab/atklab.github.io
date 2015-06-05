@@ -5,32 +5,32 @@
   <version>1.2.0.BUILD-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150531.104951</timestamp>
-      <buildNumber>10</buildNumber>
+      <timestamp>20150605.161821</timestamp>
+      <buildNumber>12</buildNumber>
     </snapshot>
-    <lastUpdated>20150531104951</lastUpdated>
+    <lastUpdated>20150605161821</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.2.0.BUILD-20150531.104951-10</value>
-        <updated>20150531104951</updated>
+        <value>1.2.0.BUILD-20150605.161821-12</value>
+        <updated>20150605161821</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.2.0.BUILD-20150531.104951-10</value>
-        <updated>20150531104951</updated>
+        <value>1.2.0.BUILD-20150605.161821-12</value>
+        <updated>20150605161821</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>1.2.0.BUILD-20150531.104951-10</value>
-        <updated>20150531104951</updated>
+        <value>1.2.0.BUILD-20150605.161821-12</value>
+        <updated>20150605161821</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.2.0.BUILD-20150531.104951-10</value>
-        <updated>20150531104951</updated>
+        <value>1.2.0.BUILD-20150605.161821-12</value>
+        <updated>20150605161821</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
