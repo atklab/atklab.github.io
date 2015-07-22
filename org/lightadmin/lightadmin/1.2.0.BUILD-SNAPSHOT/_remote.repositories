@@ -1,13 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 22 14:20:09 UTC 2015
+#Wed Jul 22 08:31:20 UTC 2015
+lightadmin-1.2.0.BUILD-SNAPSHOT.pom>=
 lightadmin-1.2.0.BUILD-SNAPSHOT-tests.jar>=
 lightadmin-1.2.0.BUILD-SNAPSHOT-sources.jar>=
-lightadmin-1.2.0.BUILD-20150607.180343-16.jar>lightadmin-nexus-snapshots=
 lightadmin-1.2.0.BUILD-20150620.092458-21.jar>lightadmin-nexus-snapshots=
-lightadmin-1.2.0.BUILD-20150531.104951-10.jar>lightadmin-nexus-snapshots=
-lightadmin-1.2.0.BUILD-20150605.161821-12.jar>lightadmin-nexus-snapshots=
-lightadmin-1.2.0.BUILD-20150620.090845-20.jar>lightadmin-nexus-snapshots=
 lightadmin-1.2.0.BUILD-SNAPSHOT.jar>=
-lightadmin-1.2.0.BUILD-20150611.093803-17.jar>lightadmin-nexus-snapshots=
-lightadmin-1.2.0.BUILD-SNAPSHOT.pom>=
-lightadmin-1.2.0.BUILD-20150614.202645-18.jar>lightadmin-nexus-snapshots=
